@@ -530,7 +530,11 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
+    "net_colors": {
+      "+3V3": "rgb(255, 145, 220)",
+      "+5V": "rgb(255, 165, 27)",
+      "GND": "rgb(156, 104, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
