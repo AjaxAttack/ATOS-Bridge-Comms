@@ -533,6 +533,7 @@
     "net_colors": {
       "+3V3": "rgb(255, 145, 220)",
       "+5V": "rgb(255, 165, 27)",
+      "/VDD1A": "rgb(216, 255, 0)",
       "GND": "rgb(156, 104, 255)"
     },
     "netclass_assignments": null,
@@ -666,7 +667,7 @@
         "uuid": "2b46a950-adb6-434b-928c-c069ab58e33e"
       }
     ],
-    "used_designators": "D2,D5-8,#PWR2,#PWR15,#PWR45,#PWR49,#PWR53,#FLG4-5,R13,R18,TP1-7,FB1",
+    "used_designators": "#PWR45,R23",
     "variants": []
   },
   "sheets": [
