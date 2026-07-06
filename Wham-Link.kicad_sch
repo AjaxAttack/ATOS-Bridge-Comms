@@ -6561,12 +6561,6 @@
 		(uuid "50d70dc9-d19e-4423-9244-68161ab6eda9")
 	)
 	(junction
-		(at 26.67 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "54b87729-8a04-4a71-bb57-6a8fb70e7852")
-	)
-	(junction
 		(at 109.22 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7176,16 +7170,6 @@
 	)
 	(wire
 		(pts
-			(xy 17.78 55.88) (xy 26.67 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12b197ad-f021-44b2-a83c-bd9f7079a0c4")
-	)
-	(wire
-		(pts
 			(xy 59.69 149.86) (xy 62.23 149.86)
 		)
 		(stroke
@@ -7736,16 +7720,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 62.23) (xy 34.29 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a35aef9-4887-4add-82ba-c543bf6d018c")
-	)
-	(wire
-		(pts
 			(xy 218.44 62.23) (xy 218.44 67.31)
 		)
 		(stroke
@@ -8053,6 +8027,16 @@
 			(type default)
 		)
 		(uuid "4e9b0f4b-c876-4f14-b643-427650ae443f")
+	)
+	(wire
+		(pts
+			(xy 166.37 45.72) (xy 168.91 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52420117-eb79-4a6c-86d0-d65028a6acbd")
 	)
 	(wire
 		(pts
@@ -8366,16 +8350,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 41.91) (xy 176.53 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fb0997a-451e-4265-8987-1abda23d9fb6")
-	)
-	(wire
-		(pts
 			(xy 161.29 72.39) (xy 157.48 72.39)
 		)
 		(stroke
@@ -8393,16 +8367,6 @@
 			(type default)
 		)
 		(uuid "70ea3bdd-81e3-4b82-8295-734a50aed2bf")
-	)
-	(wire
-		(pts
-			(xy 162.56 44.45) (xy 162.56 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71aef001-2996-4068-88b4-80cd9686206c")
 	)
 	(wire
 		(pts
@@ -8726,16 +8690,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 62.23) (xy 39.37 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d10cc90-3a7f-4368-a91b-006dd029467f")
-	)
-	(wire
-		(pts
 			(xy 236.22 78.74) (xy 234.95 78.74)
 		)
 		(stroke
@@ -8763,6 +8717,16 @@
 			(type default)
 		)
 		(uuid "8e242954-d758-4d88-8ce8-f61439f52a7e")
+	)
+	(wire
+		(pts
+			(xy 168.91 45.72) (xy 168.91 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e45a0d0-7115-45ff-b788-cc76b226a337")
 	)
 	(wire
 		(pts
@@ -8966,6 +8930,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 45.72) (xy 161.29 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a34f78d1-9d17-4185-95bd-fca3ae38f858")
+	)
+	(wire
+		(pts
 			(xy 93.98 114.3) (xy 93.98 116.84)
 		)
 		(stroke
@@ -9013,16 +8987,6 @@
 			(type default)
 		)
 		(uuid "a9a4d454-4af2-464b-a311-4eeb9c354290")
-	)
-	(wire
-		(pts
-			(xy 162.56 49.53) (xy 168.91 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a9b4ff02-7a77-4f1b-b43f-2b9b2718c00a")
 	)
 	(wire
 		(pts
@@ -9163,6 +9127,16 @@
 			(type default)
 		)
 		(uuid "b304e17b-89e2-44c2-a4ba-d854f975fde2")
+	)
+	(wire
+		(pts
+			(xy 179.07 45.72) (xy 171.45 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3147e7a-5032-41c8-ab38-e25136d523bc")
 	)
 	(wire
 		(pts
@@ -9516,6 +9490,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 44.45) (xy 179.07 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d38500dc-f6c8-4cd6-bacc-c35be888d711")
+	)
+	(wire
+		(pts
 			(xy 267.97 118.11) (xy 271.78 118.11)
 		)
 		(stroke
@@ -9576,13 +9560,13 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 41.91) (xy 171.45 49.53)
+			(xy 171.45 45.72) (xy 171.45 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d9c529ba-e05e-49d1-9128-0728bee425d4")
+		(uuid "d9681b23-264f-4c96-ad6c-71bd939632dd")
 	)
 	(wire
 		(pts
@@ -9936,7 +9920,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 55.88) (xy 26.67 55.88)
+			(xy 25.4 62.23) (xy 39.37 62.23)
 		)
 		(stroke
 			(width 0)
@@ -10104,16 +10088,6 @@
 		)
 		(uuid "5badd82a-89d3-42ad-89ce-404b6d8b0700")
 	)
-	(label "LED1"
-		(at 181.61 41.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "60fb9a7e-ed87-4e10-b3d4-416816a57950")
-	)
 	(label "VDD2A"
 		(at 26.67 49.53 0)
 		(effects
@@ -10125,7 +10099,7 @@
 		(uuid "7f539b17-7582-4c95-a8e7-5e777fcedff3")
 	)
 	(label "LED1"
-		(at 17.78 55.88 0)
+		(at 25.4 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10133,6 +10107,16 @@
 			(justify left bottom)
 		)
 		(uuid "9155a15b-4f6b-4bc9-8738-9bcf1dec5d91")
+	)
+	(label "LED1"
+		(at 158.75 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b0fc5f51-4d0a-4665-916c-4f0eb89e594d")
 	)
 	(label "VDDCR"
 		(at 27.94 69.85 0)
@@ -14226,6 +14210,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 163.83 45.72 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "367237c0-2458-4a27-aa21-7edb759089e0")
+		(property "Reference" "R2"
+			(at 166.116 47.752 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "332R"
+			(at 163.576 47.752 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 163.83 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 163.83 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "86dd02d2-4d15-4ecf-9509-dba87539ece5")
+		)
+		(pin "1"
+			(uuid "9d2a80ba-4cf7-4cf0-b36d-1686bb04da57")
+		)
+		(instances
+			(project "Wham-Link"
+				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 157.48 82.55 0)
 		(unit 1)
@@ -15511,83 +15576,6 @@
 			(project "Wham-Link"
 				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 26.67 60.96 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5c39271c-ed62-4d74-b0c4-25479a4368db")
-		(property "Reference" "#PWR045"
-			(at 26.67 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 29.972 62.738 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 26.67 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 26.67 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 26.67 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "264ef2b9-6789-4c12-81fc-ee8ac6e24ac3")
-		)
-		(instances
-			(project "Wham-Link"
-				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
-					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -17512,83 +17500,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 162.56 44.45 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "913e3d05-61d5-44bf-a9c1-980fab1cbcb1")
-		(property "Reference" "#PWR024"
-			(at 162.56 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 162.56 40.894 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 162.56 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 162.56 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 162.56 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "60006e14-b172-4406-b0fa-dc7af4b3261f")
-		)
-		(instances
-			(project "Wham-Link"
-				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
-					(reference "#PWR024")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 24.13 125.73 0)
 		(unit 1)
@@ -17817,6 +17728,83 @@
 			(project "Wham-Link"
 				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
 					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 179.07 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9868c42a-f836-4c1c-b576-adf16c13eb84")
+		(property "Reference" "#PWR024"
+			(at 179.07 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 175.514 42.926 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 179.07 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e4e8c245-f9cb-47ff-8aad-12158f155a08")
+		)
+		(instances
+			(project "Wham-Link"
+				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -19367,86 +19355,6 @@
 			(project "Wham-Link"
 				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
 					(reference "#PWR07")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 173.99 41.91 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "c3b43964-5169-4486-99f3-74cc4943d937")
-		(property "Reference" "R2"
-			(at 171.704 43.942 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "332R"
-			(at 174.244 43.942 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 173.99 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 173.99 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 173.99 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "875ed9ae-53c6-4a7c-a7fb-5867d8a1bc4d")
-		)
-		(pin "1"
-			(uuid "35d19770-8b89-460e-9df1-82b8cbe56b59")
-		)
-		(instances
-			(project "Wham-Link"
-				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
-					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -21071,86 +20979,6 @@
 			(project "Wham-Link"
 				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
 					(reference "#PWR031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 26.67 58.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f092056c-b4e7-40db-985f-30c133d32eb7")
-		(property "Reference" "R23"
-			(at 24.638 56.134 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 28.702 58.42 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 26.67 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 26.67 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 26.67 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "3e3e6deb-a09a-4436-abbd-ad2b90169a76")
-		)
-		(pin "1"
-			(uuid "36e2457c-6cda-4845-a85e-afc177243a2b")
-		)
-		(instances
-			(project "Wham-Link"
-				(path "/2b46a950-adb6-434b-928c-c069ab58e33e"
-					(reference "R23")
 					(unit 1)
 				)
 			)
