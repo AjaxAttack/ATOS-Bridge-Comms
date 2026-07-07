@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -533,8 +533,19 @@
     "net_colors": {
       "+3V3": "rgb(255, 145, 220)",
       "+5V": "rgb(255, 165, 27)",
+      "/CLKIN": "rgb(0, 251, 255)",
+      "/RX+": "rgb(0, 255, 248)",
+      "/RX-": "rgb(0, 255, 255)",
+      "/TX+": "rgb(0, 250, 255)",
+      "/TX-": "rgb(0, 244, 255)",
       "/VDD1A": "rgb(216, 255, 0)",
-      "GND": "rgb(156, 104, 255)"
+      "BOOT": "rgb(0, 252, 255)",
+      "DTR": "rgb(255, 152, 78)",
+      "EN": "rgb(255, 150, 96)",
+      "GND": "rgb(156, 104, 255)",
+      "Net-(USB1-DN1)": "rgb(0, 255, 248)",
+      "Net-(USB1-DP1)": "rgb(0, 254, 255)",
+      "RTS": "rgb(255, 139, 64)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
@@ -555,7 +566,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "..\\..\\..\\..\\Downloads\\oneOfSuch.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -617,12 +628,54 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
