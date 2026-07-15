@@ -13076,6 +13076,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C6186"
+			(at 33.02 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5a93166f-148d-4e2f-8424-cac9fa50e02c")
 		)
@@ -13229,6 +13240,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 102.87 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1525"
+			(at 102.87 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14195,7 +14217,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2543dfc2-94c2-4095-8295-3e4055140ecb")
 		(property "Reference" "TP4"
 			(at 259.588 158.75 90)
@@ -14793,6 +14815,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 24.13 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1525"
 			(at 24.13 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -15774,6 +15807,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1525"
+			(at 88.9 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4d4a5f30-69dd-404c-91e5-b836b0926157")
 		)
@@ -16671,6 +16715,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1556"
+			(at 146.05 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "266677a4-6fdf-412e-b216-7b7eebeeaf8c")
 		)
@@ -16898,6 +16953,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 100.33 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19711"
 			(at 100.33 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -17366,7 +17432,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "68b13105-65ab-4a80-b34c-e9dabae97b5c")
 		(property "Reference" "TP1"
 			(at 137.16 173.99 0)
@@ -17993,6 +18059,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1525"
+			(at 121.92 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d8f2c55-d34d-4014-956f-e922fc3c7d38")
 		)
@@ -18143,6 +18220,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 19.05 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19711"
 			(at 19.05 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -18489,7 +18577,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8b54640d-c90d-460e-8b58-d5f05aa39954")
 		(property "Reference" "TP3"
 			(at 216.408 158.496 90)
@@ -18694,6 +18782,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 40.64 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1525"
 			(at 40.64 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -19660,6 +19759,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C19711"
+			(at 133.35 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7c36495e-b7d3-4337-a4a3-dbf0c01c35cb")
 		)
@@ -19732,6 +19842,17 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 190.5 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1525"
+			(at 190.5 121.92 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20527,6 +20648,17 @@
 		)
 		(property "Description" "Polarized capacitor, small symbol"
 			(at 102.87 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C19711"
+			(at 102.87 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21943,7 +22075,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "df17ec08-19d7-4bde-b81c-cf9bd5b9a857")
 		(property "Reference" "TP2"
 			(at 137.16 168.91 0)
@@ -22226,6 +22358,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 45.72 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C86295"
 			(at 45.72 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -22629,6 +22772,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C19711"
+			(at 17.78 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62d576c4-448e-427e-ad2a-3e07bcbc3131")
 		)
@@ -22932,6 +23086,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 256.54 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C52923"
 			(at 256.54 134.62 0)
 			(hide yes)
 			(show_name no)
