@@ -90,11 +90,11 @@
           ""
         ],
         [
-          "clearance|148252787|84486391|759c193f-5392-48f5-af93-575948f1310d|b1a275c5-a21e-4f5b-82a0-112a925b809c",
+          "clearance|148252787|83626391|b1a275c5-a21e-4f5b-82a0-112a925b809c|ed898d5d-2079-4098-a826-408918de419e",
           ""
         ],
         [
-          "clearance|149700000|83626391|51ae44ba-1dd1-4157-942f-b811f9e3dd7f|57bc9811-1641-4a4c-b538-e258135e76b3",
+          "clearance|149700000|84486391|51ae44ba-1dd1-4157-942f-b811f9e3dd7f|c0af5596-52b8-4b03-8820-f963045e9ec2",
           ""
         ],
         [
@@ -777,7 +777,7 @@
         "uuid": "2b46a950-adb6-434b-928c-c069ab58e33e"
       }
     ],
-    "used_designators": "#PWR24,#PWR45,#PWR51,#PWR56,R2,R23-24,C16,U2,Q1-3",
+    "used_designators": "H1-2",
     "variants": []
   },
   "sheets": [
