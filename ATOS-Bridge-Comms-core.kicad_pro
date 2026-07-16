@@ -90,7 +90,7 @@
           ""
         ],
         [
-          "clearance|148252787|83626391|b1a275c5-a21e-4f5b-82a0-112a925b809c|ed898d5d-2079-4098-a826-408918de419e",
+          "clearance|148252787|84486391|759c193f-5392-48f5-af93-575948f1310d|b1a275c5-a21e-4f5b-82a0-112a925b809c",
           ""
         ],
         [
@@ -794,7 +794,7 @@
         "uuid": "2b46a950-adb6-434b-928c-c069ab58e33e"
       }
     ],
-    "used_designators": "NT1-3,H1-2,R23-26,#PWR24-25,#PWR33,#PWR51,#PWR57-58,C11,C13,C17,TP5-6",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
