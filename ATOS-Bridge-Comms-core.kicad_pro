@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.25,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -90,11 +90,11 @@
           ""
         ],
         [
-          "clearance|148252787|84486391|759c193f-5392-48f5-af93-575948f1310d|b1a275c5-a21e-4f5b-82a0-112a925b809c",
+          "clearance|148252787|83626391|b1a275c5-a21e-4f5b-82a0-112a925b809c|ed898d5d-2079-4098-a826-408918de419e",
           ""
         ],
         [
-          "clearance|149700000|84486391|51ae44ba-1dd1-4157-942f-b811f9e3dd7f|c0af5596-52b8-4b03-8820-f963045e9ec2",
+          "clearance|149700000|83626391|51ae44ba-1dd1-4157-942f-b811f9e3dd7f|57bc9811-1641-4a4c-b538-e258135e76b3",
           ""
         ],
         [
@@ -628,7 +628,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fabrication/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -746,7 +746,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "TP",
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",
